@@ -1,7 +1,9 @@
 
 # Goal
 
-![Design, develop and implement data-driven products using right mix of skills and technologies for Data Engineering, Data Scientists and Data Analysts](https://image.ibb.co/hK1sCK/schmarzo_data_science_team_2.png)
+Design, develop and implement data-driven products using right mix of skills and technologies for Data Engineering, Data Scientists and Data Analysts.
+
+![](https://image.ibb.co/hK1sCK/schmarzo_data_science_team_2.png)
 
 ## Favorite Guides
 - [Building a Data Science team]
