@@ -1,5 +1,5 @@
 
-# Goal
+# Summary
 
 - Design, develop and implement data-driven products using right mix of skills and technologies for Data Engineering, Data Scientists and Data Analysts.
 
